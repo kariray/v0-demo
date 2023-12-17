@@ -57,6 +57,15 @@ main h1 {
   transition: all 0.3s ease-in-out;
 }
 
+.link-container__customize {
+  background-color: #e1f9e3;
+  color: #4ba15b;
+}
+.link-container__customize:hover {
+  background-color: #c1ffc8;
+  transition: all 0.3s ease-in-out;
+}
+
 footer {
   position: absolute;
   bottom: 0;
