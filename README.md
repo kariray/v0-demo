@@ -6,7 +6,7 @@ result of UI generator created by v0 -> https://v0.dev/t/Snis3JLMELF
 
 ## Original
 
-![](https://imgur.com/a/QylaJ5X)
+![](https://imgur.com/9PUBX26.png)
 
 Copy the source code written by [v0 generetor](https://v0.dev/t/Snis3JLMELF)
 
@@ -15,7 +15,7 @@ Copy the source code written by [v0 generetor](https://v0.dev/t/Snis3JLMELF)
 
 ## Modify
 
-![](https://imgur.com/a/QpCTX5F)
+![](https://imgur.com/Fi0PFuq.png)
 
 Original code was nicely modified. (css deduplication, changed tailwindcss to vanilla css. Use [Tailwind to CSS site](https://tailwind-to-css.vercel.app/))
 
@@ -25,7 +25,7 @@ Original code was nicely modified. (css deduplication, changed tailwindcss to va
 
 ## Customize
 
-![](https://imgur.com/a/aWYTwD1)
+![](https://imgur.com/VgTuzXR.png)
 
 The dog gallery site was simply implemented based on the UI created by v0. (adding a Hover event)
 
